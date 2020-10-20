@@ -178,6 +178,9 @@ public class Main extends Application {
                     });
         }
 
+
+
+
         public void see() {
             if (flag || visible) return;
             if (bomb) {
